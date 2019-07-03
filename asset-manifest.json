@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/labourCosts/static/css/main.7a04c82c.chunk.css",
+    "main.js": "/labourCosts/static/js/main.a32ea192.chunk.js",
+    "main.js.map": "/labourCosts/static/js/main.a32ea192.chunk.js.map",
+    "runtime~main.js": "/labourCosts/static/js/runtime~main.1fbf6390.js",
+    "runtime~main.js.map": "/labourCosts/static/js/runtime~main.1fbf6390.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/labourCosts/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/labourCosts/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/labourCosts/index.html",
+    "precache-manifest.80129f60f68e796c4016c0e3f0f1d588.js": "/labourCosts/precache-manifest.80129f60f68e796c4016c0e3f0f1d588.js",
+    "service-worker.js": "/labourCosts/service-worker.js",
+    "static/css/main.7a04c82c.chunk.css.map": "/labourCosts/static/css/main.7a04c82c.chunk.css.map"
+  }
+}
