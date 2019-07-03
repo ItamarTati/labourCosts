@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fb4b1836d6afc95a781b31bd7a0a8f94",
+    "revision": "2e6f0a7569f915bbfb9a55b152874cfd",
     "url": "/labourCosts/index.html"
   },
   {
-    "revision": "46bb90b9afbd61c66a9d",
+    "revision": "b05cdc4f73767959062b",
     "url": "/labourCosts/static/css/main.7a04c82c.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/labourCosts/static/js/2.65aa1cca.chunk.js"
   },
   {
-    "revision": "46bb90b9afbd61c66a9d",
-    "url": "/labourCosts/static/js/main.a32ea192.chunk.js"
+    "revision": "b05cdc4f73767959062b",
+    "url": "/labourCosts/static/js/main.8102eeb3.chunk.js"
   },
   {
     "revision": "f1ac997f768bddb36dbb",
