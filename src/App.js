@@ -139,13 +139,13 @@ class App extends Component {
       </table>
 
       <div>
-        <h1>Total</h1>
-        <p>£{Data.employees.map((item) => { 
+        <h1>Total Costs</h1>
+        <h2>£{Data.employees.map((item) => { 
             return (
             Hours(item.mondayStart, item.mondayEnd, item.tuesdayStart, item.tuesdayEnd, item.wednesdayStart, 
             item.wednesdayEnd, item.thursdayStart, item.thursdayEnd, item.fridayStart, item.fridayEnd, 
             item.saturdayStart, item.saturdayEnd, item.sundayStart, item.sundayEnd) * 9)
-            }).reduce((total, numbers) => total + numbers, 0)} </p>
+            }).reduce((total, numbers) => total + numbers, 0)} </h2>
       </div>
       </div>
     );
